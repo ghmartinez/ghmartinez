@@ -1,7 +1,7 @@
 <div id="header" align="center">
   
   <h1>Hola! I'm Gabe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-
+  <p>Ruby on Rails developer ♦️, web development passionate 🕸️, obsessed with programming in general 💻.
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
   <img src="https://komarev.com/ghpvc/?username=ghmartinez&style=flat-square&color=blue" alt=""/>
