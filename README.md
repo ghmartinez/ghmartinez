@@ -1,13 +1,10 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/fVPR3NSqLjVQFEPmP8/giphy.gif?cid=ecf05e47tj18ste94v0ua26e2tfde8zs5cljaaaxp4179fgx&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100"/>
-  <h1>Hola! I'm Gabe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-  
-  <p>Ruby on Rails developer, web development passionate, obsessed with programming in general. ❤️
-  
-  
+  <h1>Hola Mundo! I'm Gabe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <h2>Ruby on Rails developer, web development passionate, obsessed with programming. ❤️</h2>
+  <p>Internet, love, nature, diversity and inclusion. 👾</p>
   <img src="https://komarev.com/ghpvc/?username=ghmartinez&style=flat-square&color=blue" alt=""/>
-  
-  </div>
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
