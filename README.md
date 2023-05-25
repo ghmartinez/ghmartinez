@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/hacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe" width="100"/>
+  <img src="https://media1.giphy.com/media/fVPR3NSqLjVQFEPmP8/giphy.gif?cid=ecf05e47tj18ste94v0ua26e2tfde8zs5cljaaaxp4179fgx&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100"/>
   <h1>Hola! I'm Gabe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
   
   <p>Ruby on Rails developer, web development passionate, obsessed with programming in general. ❤️
