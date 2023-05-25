@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/fVPR3NSqLjVQFEPmP8/giphy.gif?cid=ecf05e47tj18ste94v0ua26e2tfde8zs5cljaaaxp4179fgx&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100"/>
   <h1>Hola Mundo! I'm Gabe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-  <p>Ruby on Rails developer, web development passionate, obsessed with programming. ❤️</p>
-  <p>Internet, love, nature, diversity and inclusion. 👾</p>
+  <p>Ruby on Rails developer, web development passionate, obsessed with programming. 😊</p>
+  <p>Internet, love, nature, diversity and inclusion. 🫶</p>
   <img src="https://komarev.com/ghpvc/?username=ghmartinez&style=flat-square&color=blue" alt=""/>
 </div>
 
@@ -13,17 +13,17 @@
 
 ---
 
-### 👨‍💻 About Me :
+### 👨‍💻 About Me:
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Barcelona.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- ❤️ Working as a freelancer, developing web applications from backend to frontend using RoR.
 
-- :seedling: Exploring Technical Content Writing.
+- 💙 Learing React and React Native.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 🤍 In my free time, I develop games, social platforms and ask for help in forums!
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Gabe-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ghmartinez/)
 
 ---
 
