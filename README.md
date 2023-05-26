@@ -50,5 +50,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### 🔥 My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ghmartinez&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghmartinez)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ghmartinez&theme=dark&date_format=j%20M%5B%20Y%5D&fire=EB0000&ring=EB0000&border=EB0000&currStreakLabel=EB0000)](https://git.io/streak-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghmartinez)](https://github.com/anuraghazra/github-readme-stats)
