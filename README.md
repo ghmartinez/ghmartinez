@@ -55,4 +55,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 ### 🏗️ Repos I'm Working On:
 
-- [![The Lotus Game](https://img.shields.io/badge/the-lotus-game-Build-Passing-brightgreen)](https://github.com/ghmartinez/the-lotus-game)
+- [![The Lotus Game](https://img.shields.io/badge/the-lotus-game-Work%20In%20Progress-lightgrey)](https://github.com/ghmartinez/the-lotus-game)
