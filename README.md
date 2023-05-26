@@ -45,3 +45,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/rspec/rspec-original.svg" title="RSpec" alt="RSpec" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
 </div>
+
+---
+
+### 🔥 My Stats:
+
+<div align="center">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ghmartinez&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
