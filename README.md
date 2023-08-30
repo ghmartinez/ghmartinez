@@ -19,7 +19,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - ❤️ Working as a freelancer, developing web applications from backend to frontend using RoR.
 
-- 💙 Learing React and React Native.
+- 💙 Learing React and React Native at [Aspasia Catalunya School](https://grupoaspasia.com).
+
+- 💛 Learning C at [42](https://www.42barcelona.com).
 
 - 🤍 In my free time, I develop games, social platforms and ask for help in forums!
 
