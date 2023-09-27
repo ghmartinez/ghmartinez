@@ -51,12 +51,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### 🔥 My Stats:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ghmartinez&theme=dark&date_format=j%20M%5B%20Y%5D&fire=EB0000&ring=EB0000&border=EB0000&currStreakLabel=EB0000)](https://git.io/streak-stats)
-
----
 ### 🏗️ Repos I'm Working On:
 
 - [The Lotus Game 🪷](https://github.com/ghmartinez/the-lotus-game)
 - [NETCO Project 🏠](https://github.com/ghmartinez/netco)
+- [Kaiaway App ✈️](https://github.com/Krastiy13/kaiaway-app)
