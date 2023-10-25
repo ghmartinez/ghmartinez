@@ -56,3 +56,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [The Lotus Game 🪷](https://github.com/ghmartinez/the-lotus-game)
 - [NETCO Project 🏠](https://github.com/ghmartinez/netco)
 - [Kaiaway App ✈️](https://github.com/Krastiy13/kaiaway-app)
+- [42 Cursus 🖥️](https://github.com/ghmartinez/42cursus)
