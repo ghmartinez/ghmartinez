@@ -57,4 +57,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [NETCO Project 🏠](https://github.com/ghmartinez/netco)
 - [Kaiaway App ✈️](https://github.com/Krastiy13/kaiaway-app)
 - [42 Cursus 🖥️](https://github.com/ghmartinez/42cursus)
-- [ARDA Telegram Bot](https://github.com/ramdelaigua)
+- [ARDA Telegram Bot 🤖](https://github.com/ramdelaigua)
